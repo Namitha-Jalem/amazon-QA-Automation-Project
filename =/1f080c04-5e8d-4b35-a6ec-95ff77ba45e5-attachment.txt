@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_search.py:56 ******** Selecting 3rd product ******* 
+[32mINFO    [0m root:test_search.py:67 ******** 3rd product selected successfully *******

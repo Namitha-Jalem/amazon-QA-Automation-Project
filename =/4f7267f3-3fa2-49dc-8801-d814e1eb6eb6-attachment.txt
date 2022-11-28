@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_search.py:74 ******** Adding the product to cart ******* 
+[32mINFO    [0m root:test_search.py:81 ******** Product added to cart successfully *******

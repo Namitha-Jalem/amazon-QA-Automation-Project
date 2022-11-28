@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_search.py:23 ******** Test001Search ******* 
+[32mINFO    [0m root:test_search.py:24 ******** Searching for Samsung Phone ******* 
+[32mINFO    [0m root:test_search.py:35 ******** Search validation passed  *******

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_search.py:42 ******** Filtering the phones ******* 
+[32mINFO    [0m root:test_search.py:49 ********  Max Price Validation success *******
